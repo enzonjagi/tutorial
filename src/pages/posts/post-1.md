@@ -7,14 +7,14 @@ author: "Umar Njagi Ndungo."
 image:
     url: 'https://docs.astro.build/assets/full-logo-light.png'
     alt: 'The full Astro logo.'
-tags: ["astro", "blogging", leanring in public"]
+tags: ["astro", "blogging", learning in public"]
 ---
 
 # All About Astro
 
 Published on 2023-11-28
 
-Welcome to anpther journey in programming with Astro for web frontend development.
+Welcome to another journey in programming with Astro for web frontend development.
 
 ## What I've completed
 
