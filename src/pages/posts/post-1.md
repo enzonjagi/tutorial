@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: "All about Astro"
 pubDate: 2023-11-28
 description: "This is a sample blog post for the Astro blog site."
